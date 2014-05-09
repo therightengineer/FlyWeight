@@ -8,7 +8,7 @@ import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * @author Anil Panicker
+ * @author therightengineer
  *
  */
 public final class FlyWeightCharFactory {

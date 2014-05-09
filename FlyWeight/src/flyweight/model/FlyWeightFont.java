@@ -4,7 +4,7 @@
 package flyweight.model;
 
 /**
- * @author Anil Panicker
+ * @author therightengineer
  *
  */
 public class FlyWeightFont {
