@@ -25,6 +25,7 @@ public final class FlyWeightFontFactory {
 	public FlyWeightFont getFont(String name, int size, String style){
 		FlyWeightFont flyWeightFont = fontMap.get(name + size + style);
 		return flyWeightFont != null ? flyWeightFont : createAndReturnFlyWeightFont(name, size, style);
+		//very small change.
 	}
 
 	/**
